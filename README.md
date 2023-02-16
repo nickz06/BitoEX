@@ -1,2 +1,2 @@
-# BitoEX
-interview_homework
+# bito_interview
+bito_interview
